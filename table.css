@@ -1,0 +1,34 @@
+/*STILO PARA TABELA*/
+
+/*estilo de bordas sa tabela*/
+table, td, th{
+    border: solid 1px rgb(189, 240, 241)
+}
+td{
+   width: 120px;
+   font-size: 20px; 
+}
+th{
+    font-size: 20px;
+    background-color: rgb(189, 238, 235);
+}
+tr:hover {
+    background-color: rgb(191, 240, 240);
+}
+th{
+    background-color: rgb(216, 239, 241);
+    color: rgb(0, 0, 0);
+}
+h1{
+    text-align: center;
+}
+#container{
+    text-align: center;
+    /* width: 50%; */
+    margin-left: auto;
+    margin-right: auto;
+}   
+/*Estilo de cores da tabela*/
+
+
+/*Estilo de comportamento da tabela*/
